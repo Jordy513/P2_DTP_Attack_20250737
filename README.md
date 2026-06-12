@@ -379,9 +379,9 @@ SW1(config-if)# shutdown
 
 ## 8. Video Demostrativo
 
-🎥 **[Ver demostración en YouTube](https://www.google.com/search?q=https://youtu.be/Enlace_Simulado_DTP_20250737)**
+🎥 **[Ver demostración en YouTube](https://youtu.be/l0YcGBCu8Dg)**
 
-**Duración:** 4:45 minutos
+**Duración:** 3:50 minutos
 
 **Contenido del video:**
 
