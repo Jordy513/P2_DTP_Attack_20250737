@@ -33,8 +33,6 @@ Este laboratorio busca evidenciar específicamente:
 * La interceptación y el salto de tráfico hacia segmentos críticos como la VLAN de Servidores o de Gestión.
 * La efectividad de deshabilitar DTP (`nonegotiate`) y forzar modos de acceso estáticos como contramedida de mitigación definitiva.
 
-Este laboratorio se realiza en un entorno controlado con fines **exclusivamente educativos** dentro del curso de Seguridad de Redes del ITLA.
-
 ---
 
 ## 2. Objetivo del Script
